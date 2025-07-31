@@ -1,1 +1,11 @@
-git add requirements.txt
+django
+flake8
+flake8-quotes
+flake8-variables-names
+pep8-naming
+django-debug-toolbar
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+Pillow
+drf-yasg>=1.21.5
